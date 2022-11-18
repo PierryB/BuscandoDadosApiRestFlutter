@@ -4,7 +4,7 @@ import 'package:tempo_template/screens/loading_screen.dart';
 void main() {
   runApp(const MyApp());
 }
-
+//main
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
